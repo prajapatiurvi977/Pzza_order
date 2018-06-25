@@ -18,5 +18,6 @@ This Web application requires xampp/wampp to run.
  - Use url as localhost/Pzza_order/index.html
 
 ### Check out the Project:
-https://github.com/prajapatiurvi977/Pzza_order
+https://prajapatiurvi977.github.io/index.html
+
 
